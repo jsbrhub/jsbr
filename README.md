@@ -1,8 +1,8 @@
 # Jéssyca Borges/README.md
 
-### <strong>Hi</strong> 👋 <Im Jéssyca Borges> 👾
+### <strong>Hi</strong> 👋 <Im Jéssyca Borges> 👾 
 
-I'm a student of Software Engineer at Estacio-Iesam, and junior programmer analyst at Eicon Brasil, and I've been working in tech since
+I'm a student of Software Engineer 📚 at Estacio-Iesam, and junior programmer analyst 💻 at Eicon Brasil, and I've been working in tech since
 2018. I'm from Brazil, currently live Belém, I like to be called &lt;Js&gt;
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/devjs0101)
