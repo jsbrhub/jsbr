@@ -1,4 +1,4 @@
-# [jsbr]Jéssyca/README.md
+# Jéssyca Borges/README.md
 
 ### <strong>Hi</strong> 👋 <Im Jéssyca Borges> 👾
 
